@@ -1,0 +1,10 @@
+C:\Repos\MLNetSamples\MLNETSampleML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Repos\MLNetSamples\MLNETSampleML.Model\bin\Debug\netstandard2.0\MLNETSampleML.Model.deps.json
+C:\Repos\MLNetSamples\MLNETSampleML.Model\bin\Debug\netstandard2.0\MLNETSampleML.Model.dll
+C:\Repos\MLNetSamples\MLNETSampleML.Model\bin\Debug\netstandard2.0\MLNETSampleML.Model.pdb
+C:\Repos\MLNetSamples\MLNETSampleML.Model\obj\Debug\netstandard2.0\MLNETSampleML.Model.csprojAssemblyReference.cache
+C:\Repos\MLNetSamples\MLNETSampleML.Model\obj\Debug\netstandard2.0\MLNETSampleML.Model.AssemblyInfoInputs.cache
+C:\Repos\MLNetSamples\MLNETSampleML.Model\obj\Debug\netstandard2.0\MLNETSampleML.Model.AssemblyInfo.cs
+C:\Repos\MLNetSamples\MLNETSampleML.Model\obj\Debug\netstandard2.0\MLNETSampleML.Model.csproj.CoreCompileInputs.cache
+C:\Repos\MLNetSamples\MLNETSampleML.Model\obj\Debug\netstandard2.0\MLNETSampleML.Model.dll
+C:\Repos\MLNetSamples\MLNETSampleML.Model\obj\Debug\netstandard2.0\MLNETSampleML.Model.pdb

@@ -1,7 +1,0 @@
-C:\Repos\MLNetSamples\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-C:\Repos\MLNetSamples\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-C:\Repos\MLNetSamples\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
-C:\Repos\MLNetSamples\ConsoleApp1\obj\Debug\MLSample.csprojAssemblyReference.cache
-C:\Repos\MLNetSamples\ConsoleApp1\obj\Debug\MLSample.csproj.CoreCompileInputs.cache
-C:\Repos\MLNetSamples\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-C:\Repos\MLNetSamples\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
