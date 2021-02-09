@@ -1,0 +1,10 @@
+C:\Repos\MLNetSamples\MLCLI\CLI_Test\SampleClassification\SampleClassification.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Repos\MLNetSamples\MLCLI\CLI_Test\SampleClassification\SampleClassification.Model\bin\Debug\netstandard2.0\SampleClassification.Model.deps.json
+C:\Repos\MLNetSamples\MLCLI\CLI_Test\SampleClassification\SampleClassification.Model\bin\Debug\netstandard2.0\SampleClassification.Model.dll
+C:\Repos\MLNetSamples\MLCLI\CLI_Test\SampleClassification\SampleClassification.Model\bin\Debug\netstandard2.0\SampleClassification.Model.pdb
+C:\Repos\MLNetSamples\MLCLI\CLI_Test\SampleClassification\SampleClassification.Model\obj\Debug\netstandard2.0\SampleClassification.Model.csprojAssemblyReference.cache
+C:\Repos\MLNetSamples\MLCLI\CLI_Test\SampleClassification\SampleClassification.Model\obj\Debug\netstandard2.0\SampleClassification.Model.AssemblyInfoInputs.cache
+C:\Repos\MLNetSamples\MLCLI\CLI_Test\SampleClassification\SampleClassification.Model\obj\Debug\netstandard2.0\SampleClassification.Model.AssemblyInfo.cs
+C:\Repos\MLNetSamples\MLCLI\CLI_Test\SampleClassification\SampleClassification.Model\obj\Debug\netstandard2.0\SampleClassification.Model.csproj.CoreCompileInputs.cache
+C:\Repos\MLNetSamples\MLCLI\CLI_Test\SampleClassification\SampleClassification.Model\obj\Debug\netstandard2.0\SampleClassification.Model.dll
+C:\Repos\MLNetSamples\MLCLI\CLI_Test\SampleClassification\SampleClassification.Model\obj\Debug\netstandard2.0\SampleClassification.Model.pdb
